@@ -6,7 +6,7 @@ public class ClaseDAM1 {
 		// TODO Cada estudiante aÃ±adirÃ¡ su nombre.
 		String profesor = "Luis de Blas";
 
-		String al01_SergioAmor = "";
+		String al01_SergioAmor = "Sergio Amor Gutiérrez";
 		String al02_JorgeArroy = "";
 		String al03_ManuelBoo = "";
 		String al04_JoseDaBuenaga = "";
