@@ -20,7 +20,7 @@ public class ClaseDAM1 {
 		String al16_JonatanBordetas = "Jonathan Gómez Bordetas";
 		String al17_AnaGonzalez = "Ana Maria Gonzalez Rodriguez";
 		String al18_IkerIriondo = "";
-		String al19_DavidMartinez = "";
+		String al19_DavidMartinez = "David Martinez Zayago";
 		String al20_AdrianNoriega = "";
 		String al21_DiegoPerez = "";
 		String al22_RubenPerez = "";
